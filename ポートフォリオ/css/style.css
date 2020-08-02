@@ -285,6 +285,11 @@ img {
   text-align: center;
 }
 
+.news-item {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .info {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1032,6 +1037,7 @@ table {
 
 .question {
   background-image: url(../img/sunyu-kim-1053375-unsplash.png);
+  background-size: cover;
   padding-bottom: 40px;
 }
 
@@ -1324,6 +1330,7 @@ table {
 
 .contact {
   background-image: url(../img/alex-blajan-159378-unsplash.png);
+  background-size: cover;
   height: 1216px;
 }
 
@@ -1351,6 +1358,7 @@ table {
 .contact-header {
   margin-left: 15%;
   background-image: url(../img/contact1.png);
+  background-size: cover;	
   width: 70%;
   height: 200px;
   border-radius: 12px 12px 0px 0px;
